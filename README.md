@@ -1,12 +1,16 @@
-- 👋 Hola, mi nombre es Ángela
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 # Bienvenido a mi rincón digital. Mi nombre es Ángela
 
-<!---
-Angelapl16/Angelapl16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- *Siempre aprendiendo y explorando nuevas tecnologias*
+
+---
+### Ángela Pérez
+Actualmente estudiando un [Ciclo Formativo de Grado Superior de Desarrollo de Aplicaciones Multiplataforma]( https://www.boe.es/eli/es/rd/2023/05/29/405 "Vocational training")Modalidad DISTANCIAen el [**CIFP La Conservera**](https://sites.google.com/view/fplaconservera)
+
+### Background offtopic
+
+- Una vez intenté colarme en el selecto club de los maestros de Educación Infantil
+
+### Objetivos profesionales 
+
+- Front-end developer
+- Diseñador UX
